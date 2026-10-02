@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+spacy
+textblob
+vaderSentiment
+datasets
+transformers
+torch
+
+# Après installation :
+# python -m spacy download fr_core_news_md
+# python -m textblob.download_corpora
